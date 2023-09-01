@@ -1,4 +1,4 @@
-package co.appbrewery.destinichallengestarting;
+package co.appbrewery.destini;
 
 import io.flutter.embedding.android.FlutterActivity;
 

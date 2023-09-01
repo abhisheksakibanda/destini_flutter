@@ -1,4 +1,4 @@
-import 'package:destini_challenge_starting/story.dart';
+import 'package:destini/story.dart';
 
 class StoryBrain {
   int _storyNumber = 0;

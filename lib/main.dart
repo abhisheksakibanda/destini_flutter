@@ -1,4 +1,4 @@
-import 'package:destini_challenge_starting/story_brain.dart';
+import 'package:destini/story_brain.dart';
 import 'package:flutter/material.dart';
 
 void main() => runApp(Destini());
